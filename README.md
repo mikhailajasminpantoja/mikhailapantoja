@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mikhailapantoja, a First Year BSCS student
+- 👋 Hi, I’m @mikhailapantoja, a Second year BSCS student
 - 👀 I’m interested in learning web development
-- 🌱 I’m currently learning C Programming for our class
+- 🌱 I’m currently learning C++ Programming for our class
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
