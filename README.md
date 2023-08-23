@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mikhailapantoja, a Second year BSCS student
-- 👀 I’m interested in learning web development
+- 👋 Hi, I’m Mikhaila, a third year BSCS student
+- 👀 I’m interested in learning Web and Game Development, UI/UX Design, 3D Animation
 - 🌱 I’m currently learning Java Programming for our class
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
